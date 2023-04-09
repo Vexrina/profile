@@ -11,7 +11,7 @@
 ### About me
  - 🌚I wanna to be a ~~harsh~~ **backend developer**
  - 👨‍🎓3rd year student of MTUCI
- - 🌍I am fluent in reading documentation and have an informal conversation in English
+ - 🌍I am fluent in reading documentation and I can have an informal conversation in English
  - 📮Contact me by [Telegram](https://t.me/Wild_lon_Wolf), [Email](mailto:vexrina.wlw@gmail.com)
 
 
@@ -29,7 +29,7 @@
           
 
 <div id = "Stat" align = "center">
-<h1> My stat </h1>
+<h1> My stats </h1>
 
 <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vexrina&theme=panda" height =200/>
 <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vexrina&theme=panda" height = 205/>

@@ -2,8 +2,10 @@
 <div id ="header" align = "center">
     <h1>Schavlev Konstantin</h1>
     <h2>Junior Python developer</h2>
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=black"/>
+    <a href=''>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+    </a>
+
 </div>
 
 ### About me

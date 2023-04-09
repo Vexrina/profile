@@ -2,9 +2,15 @@
 <div id ="header" align = "center">
     <h1>Schavlev Konstantin</h1>
     <h2>Junior Python developer</h2>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=black"/>
 </div>
 
 ### About me
+ - 🌚I wanna to be a ~~harsh~~ **backend developer**
+ - 👨‍🎓3rd year student of MTUCI
+ - 🌍I am fluent in reading documentation and have an informal conversation in English
+ - 📮Contact me by [Telegram](https://t.me/Wild_lon_Wolf), [Email](mailto:vexrina.wlw@gmail.com)
 
 
 <div id = "Stack" align = "center">

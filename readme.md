@@ -10,9 +10,10 @@
 
 ### About me
  - 🌚I wanna to be a ~~harsh~~ **backend developer**
- - 👨‍🎓3rd year student of MTUCI
+ - 👨‍🎓The first year of the Master's degree at ITMO University
+ - 👨‍🎓Graduate of the MTUCI Bachelor's Degree
  - 🌍I am fluent in reading documentation and I can have an informal conversation in English
- - 📮Contact me by [Telegram](https://t.me/Wild_lon_Wolf), [Email](mailto:vexrina.wlw@gmail.com)
+ - 📮Contact me by [Telegram](https://t.me/vexrina), [Email](mailto:vexrina.wlw@gmail.com)
 
 
 <div id = "Stack" align = "center">
